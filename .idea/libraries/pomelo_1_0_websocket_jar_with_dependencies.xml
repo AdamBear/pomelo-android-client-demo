@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pomelo-1.0-websocket-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pomelo-1.0-websocket-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
